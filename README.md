@@ -1,1 +1,2 @@
-# inform-tica
+#Primeira lição de Github
+## informática  
